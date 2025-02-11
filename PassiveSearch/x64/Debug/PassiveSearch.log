@@ -1,0 +1,3 @@
+﻿  PassiveSearch.cpp
+C:\Base\Programming\C++\PassiveSearch\PassiveSearch.cpp(42,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  PassiveSearch.vcxproj -> C:\Base\Programming\C++\PassiveSearch\x64\Debug\PassiveSearch.exe

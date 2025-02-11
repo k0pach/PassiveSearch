@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Base\\Programming\\C\u002B\u002B\\PassiveSearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D540E2B7-FA0D-4107-915B-D5DA8F84A575}|PassiveSearch.vcxproj|C:\\Base\\Programming\\C\u002B\u002B\\PassiveSearch\\PassiveSearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D540E2B7-FA0D-4107-915B-D5DA8F84A575}|PassiveSearch.vcxproj|solutionrelative:PassiveSearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PassiveSearch.cpp",
+              "DocumentMoniker": "C:\\Base\\Programming\\C\u002B\u002B\\PassiveSearch\\PassiveSearch.cpp",
+              "RelativeDocumentMoniker": "PassiveSearch.cpp",
+              "ToolTip": "C:\\Base\\Programming\\C\u002B\u002B\\PassiveSearch\\PassiveSearch.cpp",
+              "RelativeToolTip": "PassiveSearch.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowDwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T08:28:38.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
